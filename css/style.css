@@ -1,6 +1,7 @@
 .jf-highlight {
     background-color: #47476175;
-    border: 2px solid #fa8f35;
+    padding: 2px;
+    border-radius: 20px;
 }
 .jf-backgound-pointing {
     height: 150px;
