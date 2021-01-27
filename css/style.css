@@ -1,11 +1,7 @@
-/*
-	Awesome Responsive Template
-	templatestock.co
-*/
-
-
-/* Typography CSS */
-
+.jf-highlight {
+    background-color: #47476175;
+    border: 2px solid #fa8f35;
+}
 body
 {
 	font-family: 'Roboto' !important;
@@ -37,24 +33,16 @@ body
 
 .header-div
 {
-	height: 550px;
-    background-color: #65cd00;
+	height: 100%;
+    background: url(../images/bg-mountains.jpg) center top no-repeat #181526;
+    background-attachment: fixed;
+    background-size: 100% 500px;
 }
 
 .logo-div a
 {
-    color: #fff !important;
     font-size: 28px;
     margin-top: 5px;
-}
-
-.navbar-nav li:nth-last-child(1) a
-{
-    background: rgba(0, 0, 0, 0.3);
-    border: 1px solid #fff;
-    border-radius: 4px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .top-right-menu-ul
@@ -403,19 +391,7 @@ footer {
     color: #878787;
 }
 
-
-
 /* Bootstrap CSS */
-.navbar-default {
-    background-color: transparent;
-    border-color: transparent;
-}
-
-.navbar-nav li a
-{
-	color: #fff !important;
-}
-
 .navbar-default .navbar-toggle {
     border-color: #FFF;
 }
@@ -523,24 +499,13 @@ body
 
 .header-div
 {
-	height: 550px;
-    background-color: #65cd00;
+	height: 500px;
 }
 
 .logo-div a
 {
-    color: #fff !important;
     font-size: 28px;
     margin-top: 5px;
-}
-
-.navbar-nav li:nth-last-child(1) a
-{
-    background: rgba(0, 0, 0, 0.3);
-    border: 1px solid #fff;
-    border-radius: 4px;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 
 .top-right-menu-ul
@@ -886,16 +851,6 @@ footer {
 
 
 /* Bootstrap CSS */
-.navbar-default {
-    background-color: transparent;
-    border-color: transparent;
-}
-
-.navbar-nav li a
-{
-	color: #fff !important;
-}
-
 .navbar-default .navbar-toggle {
     border-color: #FFF;
 }
