@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 .jf-highlight {
     background-color: #47476175;
     padding: 2px;
